@@ -20,7 +20,7 @@
 
 ---
 
-### Tech Stack:
+<!-- ### Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-3b3e51.svg?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-3b3e51.svg?style=for-the-badge&logo=css3&logoColor=%23007ACC)
@@ -54,7 +54,7 @@
 ![Figma](https://img.shields.io/badge/figma-3b3e51.svg?style=for-the-badge&logo=figma&)
 ![Jira](https://img.shields.io/badge/jira-3b3e51.svg?style=for-the-badge&logo=jira&logoColor=0079bf)
 ![Notion](https://img.shields.io/badge/notion-3b3e51.svg?style=for-the-badge&logo=notion)
-![GitKraken](https://img.shields.io/badge/GitKraken-3b3e51.svg?style=for-the-badge&logo=GitKraken)
+![GitKraken](https://img.shields.io/badge/GitKraken-3b3e51.svg?style=for-the-badge&logo=GitKraken) -->
 
 ---
 
@@ -64,9 +64,9 @@
 <a href="https://github.com/volodymyrfilon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=volodymyrfilon&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
-### 💻 Codewars:
+<!-- ### 💻 Codewars: 
 
-![codewars](https://www.codewars.com/users/VolodymyrFilon/badges/large)
+![codewars](https://www.codewars.com/users/VolodymyrFilon/badges/large) -->
 
 <!--
 <table align="center" border="0" cellpadding="0" cellspacing="0">
